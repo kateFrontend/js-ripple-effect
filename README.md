@@ -1,6 +1,6 @@
 # Button Ripple Effect
 
-![cover](./assets/)
+![cover](./assets/ripple.gif)
 
 ## 🦉 Main information
 
